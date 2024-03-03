@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+label {
+  margin-right: 10px;
+}
+input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
